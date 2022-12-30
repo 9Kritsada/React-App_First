@@ -1,0 +1,25 @@
+.form-control label {
+  display: inline-block;
+  margin: 15px 0 10px 0;
+}
+
+.form-control input {
+  display: block;
+  width: 100%;
+  border-radius: 2px;
+  border: 1px solid #252525;
+  padding: 10px;
+}
+
+button[type=submit] {
+  background: #028dff;
+  color: #fff;
+  border: none;
+  padding: .8em 1.3em;
+  margin-top: 2em;
+  width: 100%;
+}
+
+button:disabled {
+  background: #afafaf;
+}
