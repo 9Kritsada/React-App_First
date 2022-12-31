@@ -12,6 +12,18 @@ function App() {
     {id:1, title: "Hello1", amount: -300},
     {id:2, title: "Hello3", amount: 100},
     {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
+    {id:3, title: "Hello2", amount: -500},
     {id:4, title: "Hello4", amount: 1000}
   ]
 
